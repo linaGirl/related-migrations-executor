@@ -1,5 +1,7 @@
 # related-migrations-executor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-migrations-executor.svg)](https://greenkeeper.io/)
+
 Execute migration script
 
 
